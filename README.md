@@ -1,8 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there
 
-## MERN stack
-
-I'm a full stack developer, Who loves to work on React & Node.
+#### I'm a MERN stack developer, Who loves to work on React.
 
 - 🌍  I'm based in Tamilnadu (IN)
 - 🖥️  See my portfolio at [Github](http://gunaerode.github.io/)
