@@ -6,7 +6,7 @@
 - 🖥️  See my portfolio at [Github](http://gunaerode.github.io/)
 - ✉️  You can contact me at [guna.learn2016@gmail.com](mailto:guna.learn2016@gmail.com)
 - 🧠  I'm learning Cypress Testing for React (E2E & Component)
-- 🤝  I'm open to collaborating on any projects under my skill
+- 🤝  I'm open to collaborating on any projects
 - ⚡  I like to work with people who is more likely to learn about technologies
 
 <a href="https://www.github.com/gunaerode" target="_blank" rel="noreferrer">
