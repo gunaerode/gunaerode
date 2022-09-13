@@ -33,9 +33,9 @@
 ### Badges <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/gunaerode">
-    <img src="https://github-readme-stats.vercel.app/api?username=gunaerode&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=10b981&icon_color=facc15&bg_color=EFEFEF&hide_border=true&show_icons=true" alt="gunaerode's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gunaerode&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true&show_icons=true" alt="gunaerode's GitHub stats" />
 </a>
 <a href="http://www.github.com/gunaerode">
     <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=gunaerode&stroke=10b981&background=EFEFEF&ring=ef4444&fire=ef4444&currStreakNum=10b981&currStreakLabel=ef4444&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=gunaerode&stroke=c9cacc&background=1A2B34&ring=c9cacc&fire=fff501&currStreakNum=4AB097&currStreakLabel=4AB097&sideNums=c9cacc&sideLabels=4AB097&dates=c9cacc&hide_border=true" />
 </a>
