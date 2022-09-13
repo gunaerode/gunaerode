@@ -16,17 +16,17 @@
 ### Skills
 
 <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=479b3e" width="125" height="30" alt="MongoDB" />
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=383838" width="125" height="30" alt="Express" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJs&logoColor=white&color=87bf00" width="125" height="30" alt="NodeJs" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=63d9f4" width="125" height="30" alt="React" /></a>
 </p>
 
 ### Socials
 
 <p align="left">
     <a href="https://www.github.com/gunaerode" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        <img src="https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=444444" width="125" height="30" />
     </a>
 </p>
     
