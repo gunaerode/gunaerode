@@ -2,12 +2,12 @@
 
 #### I'm a MERN stack developer, Who loves to work on React.
 
-- 🌍  I'm based in Tamilnadu (IN)
-- 🖥️  See my portfolio at [Github](http://gunaerode.github.io/)
-- ✉️  You can contact me at [guna.learn2016@gmail.com](mailto:guna.learn2016@gmail.com)
-- 🧠  I'm learning Cypress Testing for React (E2E & Component)
-- 🤝  I'm open to collaborate on any projects
-- ⚡  I like to work with people who is more likely to learn about technologies
+- 🌍  I'm based in Tamil Nadu, India (IN)
+- 🖥️  See my portfolio on [Github](http://gunaerode.github.io/)
+- ✉️  You can contact me via [guna.learn2016@gmail.com](mailto:guna.learn2016@gmail.com)
+- 🧠  I'm learning Cypress Testing for React (E2E & Component testing)
+- 🤝  I'm open to collaborating on any projects
+- ⚡  I like to work with people who are eager to learn about technologies
 
 <a href="https://www.github.com/gunaerode" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/gunaerode?logo=github&style=for-the-badge&color=facc15&labelColor=ffffff" />
